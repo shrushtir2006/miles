@@ -1,6 +1,6 @@
 def miles_to_kilometers(miles):
     (
-    km = miles * 1.60934
+    kilometers = miles * 1.60934
     result = f"Miles : {miles}\n Kilometers: {kilometers}"
     )
     return result
